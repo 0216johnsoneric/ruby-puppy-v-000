@@ -20,3 +20,7 @@
 #
 #   end
 # end
+
+class Dog
+
+end
